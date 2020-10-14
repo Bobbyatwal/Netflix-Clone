@@ -12,7 +12,7 @@ Demo of Application: https://DripDeveloper-netflix-clone.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was inspired and originally by from Clever Progammer for the purpose of learning Full Stack Development. 
+This project was inspired and originally taught by Clever Progammer for the purpose of learning Full Stack Development. 
 
 ## Available Scripts
 
