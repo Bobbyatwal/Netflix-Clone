@@ -1,6 +1,8 @@
 # Netflix-Clone 
 
-Created a Netflix Clone Application utilizing ReactJS, React-Youtube, React Hooks, Axios Library, and FireBase Hosting. Implemented API's from TMDB to load data such as images/descriptions into custom rows. React-Youtube was required for mouseclick on movie previews. CSS applied for overall elegant theme, Netflix buttons, poster hovering, fading banner, and scroll feature.
+Created a Netflix Clone Application utilizing ReactJS, React-Youtube, React Hooks, Axios Library, and FireBase Hosting.
+
+I have implemented API's from TMDB to load data such as images/descriptions into custom rows. React Functional Components allowed for Re-usability, Data Redundancy, Efficient Readability, and Code Optimization for Fast Rendering. React-Youtube was applied for mouseclick on movie previews. CSS was used for Netflix buttons, poster hovering, fading banner, horizontal scroll, and overall elegant theme.
 
 Demo of Application: https://DripDeveloper-netflix-clone.web.app
 
